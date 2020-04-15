@@ -1,0 +1,1 @@
+This is a simple lottie player for Android that we use to verify that lottie animations play correctly
